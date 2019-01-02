@@ -1,0 +1,4 @@
+(1) Run Spoofer helper with administrator 
+(2) Then run Spoofer.exe with administrator 
+(3) Vouch in the server 
+(4) Play without a ban
